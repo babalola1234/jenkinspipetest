@@ -1,3 +1,4 @@
 Date
 whoami
 cal 
+pwd
